@@ -1,6 +1,8 @@
-<html>
-img {
-    height: 100px
-    width: 100px
+body {
+    background-image: url("hsgfjb.JPG");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
 }
-Selector Specificity: (0, 0, 1)
